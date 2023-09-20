@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1076463489267",
+    "project_id": "ephiriumroleparty",
+    "storage_bucket": "ephiriumroleparty.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076463489267:android:238e04681848b8f9d16786",
+        "android_client_info": {
+          "package_name": "com.ephirium.roleparty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdqaznPBUsY8e3ZeRnEbMd2Pe2UYTCdD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
